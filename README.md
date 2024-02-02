@@ -21,3 +21,6 @@ docker rmi $(docker images -q)
 mysql - port 3307로 포트포워딩
 
 spring - port 8000로 포트포워딩
+
+# 상세설명 아래 블로그 참고
+https://back-stead.tistory.com/category/%EB%8F%84%EC%BB%A4
